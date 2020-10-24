@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahinhurcan&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="sahinhurcan Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahinhurcan&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 
 [website]: https://sahinhurcan.com.tr/
 [linkedin]: https://www.linkedin.com/in/sahinhurcan/
