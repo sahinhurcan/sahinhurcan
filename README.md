@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!
 
 - :dart: I’m currently working on a .Net Core Project!
-- :computer: I’m currently learning ReactJS
+- :computer: I’m currently learning VueJS
 - :date: 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new repositories
 
