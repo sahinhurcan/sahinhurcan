@@ -4,7 +4,7 @@
 
 - :dart: I’m currently working on a .Net Core Project!
 - :computer: I’m currently learning React
-- :date: 2020 Goals: Contribute more to Open Source projects
+- :date: 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new repositories
 
 ### Connect with me:
