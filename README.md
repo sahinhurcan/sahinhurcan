@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Şahin Hürcan</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sahinhurcan&label=Profile%20views&color=000000&style=flat" alt="sahinhurcan" />
 </p> 
 
-- 🔭 I’m currently working on **CMS,Payment and E-Commerce Solutions** with .NET
+- 🔭 I’m currently working on **Insurance Solutions** with .NET
 
-- 🌱 I’m currently learning **Microservice and Multi Tenancy**
+- 🌱 I’m currently learning **Multi Tenancy**
 
 - 💬 Ask me about **.net,javascript,angularjs,razor,blazor,jquery,quartz.net,clean architecture**
 
